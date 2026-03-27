@@ -35,7 +35,7 @@
 
         .gallery img {
             width: 100%;
-            height: 280px;
+            height: 300px;
             object-fit: cover;
             border-radius: 10px;
             transition: 0.5s all ease-in-out;
@@ -96,7 +96,7 @@
                     </li>
                 </ul>              
                 <form class="d-flex" role="search" action="">
-                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
+                    <input class="form-control me-2" type="search" placeholder="On progress, males gw" aria-label="Search"/>
                     <button class="btn btn-outline-light" type="submit">Search</button>
                 </form>
             </div>
